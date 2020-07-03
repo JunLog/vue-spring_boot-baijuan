@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c1b14b8-bdca-4bfd-b872-551c4d8faeb5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eAGKlsBjNOpw1Yv4YoSYIQ3KdA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editorconfig.notification" value="lf;" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BaijuanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vue-spring_boot-baijuan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.junlog.baijuan.BaijuanApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c1b14b8-bdca-4bfd-b872-551c4d8faeb5" name="Default Changelist" comment="" />
+      <created>1593756921370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593756921370</updated>
+      <workItem from="1593756929289" duration="538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="302" key="FileChooserDialogImpl" timestamp="1593757560360">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="805" y="302" key="FileChooserDialogImpl/0.0.2048.1122@0.0.2048.1122" timestamp="1593757560360" />
+    <state x="0" y="62" key="FileDocumentManager.FileCacheConflict" timestamp="1593757028630">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="0" y="62" key="FileDocumentManager.FileCacheConflict/0.0.2048.1122@0.0.2048.1122" timestamp="1593757028630" />
+    <state x="434" y="222" key="new project wizard" timestamp="1593757562275">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="434" y="222" key="new project wizard/0.0.2048.1122@0.0.2048.1122" timestamp="1593757562275" />
+  </component>
+</project>
