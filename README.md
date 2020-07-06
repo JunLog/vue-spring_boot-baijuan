@@ -121,3 +121,24 @@ new Vue({
 
 使用 IDEA 的 Spring Initializr 创建
 ![LoginController](/images/LoginController.png)
+
+DAO-Data Access Object（数据访问对象，DAO） + Service + Controller
+
+- DAO 用于与数据库的直接交互，定义增删改查等操作
+- Service 负责业务逻辑，跟功能相关的代码一般写在这里，编写、调用各种方法对 DAO 取得的数据进行操作
+- Controller 负责数据交互，即接收前端发送的数据，通过调用 Service 获得处理后的数据并返回
+
+#### 使用 Element 辅助前端开发
+
+安装
+`npm i element-ui -S`
+i —— install
+-S —— sava（保存到生产环境）
+
+在 main.js 中引入 element-ui
+
+![elementui](/images/引入elementUI.png)
+
+#### 使用 Element 辅助前端开发
+
+#### 导航栏与图书页面设计
