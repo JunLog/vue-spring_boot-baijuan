@@ -1,6 +1,17 @@
 package com.junlog.springbaijuan.pojo;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+import javax.persistence.*;
+
+@Entity //这是一个实体类
+@Table(name = "user") //对应表名是 user
+@JsonIgnoreProperties({"handler","hibernateLazyInitializer"}) //忽略 里面两个参数不需要 json 化
+
 public class User {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     int id;
     String username;
     String password;

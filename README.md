@@ -7,27 +7,28 @@ VUE + Spring Boot 前后端分离 白卷 White-Jotter
 前提是安装了 VUE Cli
 
 vue ui
-· 进入*Vue 项目管理器* （没有的话，左上角下拉点击）
-· 创建 创建新项目
-· 瞎几把配置了一下，我也不知道，随缘吧，不行再说
-· 创建完成后，点击左菜单栏 任务
-· serve -> 运行 -> 启动 app
-· 出现 vue 标志的页面就是成功创建了
+
+- 进入*Vue 项目管理器* （没有的话，左上角下拉点击）
+- 创建 创建新项目
+- 瞎几把配置了一下，我也不知道，随缘吧，不行再说
+- 创建完成后，点击左菜单栏 任务
+- serve -> 运行 -> 启动 app
+- 出现 vue 标志的页面就是成功创建了
 
 #### vue 项目目录结构
 
-build 项目构建文件夹(webpack) 暂时还没有
-config 配置目录，端口号等 暂时还没有 现在的版本没这个文件夹了？
-node_modules 项目依赖
-public
-src 开发目录
-static 静态资源
-inde.html 入口文件
-package.json 项目依赖配置文件
+- build 项目构建文件夹(webpack) 暂时还没有
+- config 配置目录，端口号等 暂时还没有 现在的版本没这个文件夹了？
+- node_modules 项目依赖
+- public
+- src 开发目录
+- static 静态资源
+- inde.html 入口文件
+- package.json 项目依赖配置文件
 
 App.vue
 
-```
+```javaScript
 <template>
   <div id="app">
     <div id="nav">
@@ -93,7 +94,7 @@ module.exports = {
 
 设置反向代理
 
-```
+```javaScript
 import Vue from 'vue'
 import App from './App'
 import router from './router'
